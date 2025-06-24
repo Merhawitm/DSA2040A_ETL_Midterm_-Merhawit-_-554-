@@ -80,7 +80,7 @@ ETL_Midterm_Merhawit_554/
 │   └── customer_spending.png
 ├── README.md
 └── .gitignore
-# 5. Sample Output / Screenshot
+# 5. Sample Output / Screensho
 # Plot spending distribution
 ![image](https://github.com/user-attachments/assets/b7ab945e-c238-4e30-95ea-dd701dc0fa44)
 
