@@ -80,12 +80,13 @@ ETL_Midterm_Merhawit_554/
 │   └── customer_spending.png
 ├── README.md
 └── .gitignore
+```
 # 5. Sample Output / Screensho
 # Plot spending distribution
 ![image](customer-spending.png)
 
 Sales by Day of Week (Transformed Data)
-![image]("total-sales.png")
+![image](total-sales.png)
 
 
 
