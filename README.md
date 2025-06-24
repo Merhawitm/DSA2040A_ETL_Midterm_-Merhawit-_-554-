@@ -81,10 +81,10 @@ ETL_Midterm_Merhawit_554/
 ├── README.md
 └── .gitignore
 # 5. Sample Output / Screenshot
-![image](https://github.com/user-attachments/assets/f4a42320-8dd7-4cdf-a2a1-a347af1481a3)
+ [image](https://github.com/user-attachments/assets/f4a42320-8dd7-4cdf-a2a1-a347af1481a3)
 
  Sales by Day of Week (Transformed Data)
-![image](https://github.com/user-attachments/assets/01de433d-6309-4587-9265-27173de547f4)
+ [image](https://github.com/user-attachments/assets/01de433d-6309-4587-9265-27173de547f4)
 
 
 
