@@ -1,0 +1,60 @@
+# ========================
+# Data Management
+# ========================
+
+# Ignore all CSV files...
+*.csv
+
+# ...except the final transformed ones
+!transformed/transformed_full.csv
+!transformed/transformed_incremental.csv
+
+# Ignore cleaned backup files
+data/raw_data_cleaned.csv
+data/incremental_data_cleaned.csv
+
+# ========================
+# Jupyter Notebooks
+# ========================
+
+# Ignore notebook checkpoints (auto-saves)
+.ipynb_checkpoints/
+
+# ========================
+# Python Cache
+# ========================
+
+__pycache__/
+*.py[cod]
+
+# ========================
+# Logs / Temp Files
+# ========================
+
+*.log
+*.tmp
+
+# ========================
+# Database / Parquet Files
+# ========================
+
+*.db
+*.parquet
+
+# ========================
+# Virtual Environment Folders
+# ========================
+
+env/
+.venv/
+venv/
+ENV/
+
+# ========================
+# IDE / Editor Settings
+# ========================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
