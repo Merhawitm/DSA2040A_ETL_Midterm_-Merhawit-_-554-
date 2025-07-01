@@ -86,7 +86,8 @@ ETL_Midterm_Merhawit_554/
 ![image](customer-spending.png)
 
 Sales by Day of Week (Transformed Data)
-![image](total-sales.png)
+![image](https://github.com/user-attachments/assets/fb24f7b9-0ea9-4429-abb5-5070970cdba2)
+
 
 
 
